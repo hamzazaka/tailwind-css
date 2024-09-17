@@ -7,6 +7,8 @@ const App =()=>(
       <h1>hello wllkjdslkfd</h1>
       <h1>hello wllkjdslkfd</h1>
       <h1>hello wllkjdslkfd</h1>
+      <h1>hello wllkjdslkfd</h1>
+      <h1>hello wllkjdslkfd</h1>
 
     </section>
   </main>
